@@ -1,0 +1,16 @@
+{
+  "name": "PomPom Hub",
+  "short_name": "PomPom Hub",
+  "description": "18+ entertainment discovery gateway for PomPom Hub.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#071019",
+  "theme_color": "#081018",
+  "icons": [
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
